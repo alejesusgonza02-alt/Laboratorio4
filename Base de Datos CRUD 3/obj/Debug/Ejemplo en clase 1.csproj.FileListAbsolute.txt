@@ -1,0 +1,24 @@
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\Debug\Ejemplo en clase 1.exe.config
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\Debug\Ejemplo en clase 1.exe
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\Debug\Ejemplo en clase 1.pdb
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\Debug\System.Buffers.dll
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\Debug\System.Memory.dll
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\Debug\System.Buffers.xml
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\Debug\System.Memory.xml
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\obj\Debug\Ejemplo en clase 1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\obj\Debug\Ejemplo_en_clase_1.Form1.resources
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\obj\Debug\Ejemplo_en_clase_1.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\obj\Debug\Ejemplo en clase 1.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\obj\Debug\Ejemplo en clase 1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\obj\Debug\Ejemplo .1CA38F6C.Up2Date
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\obj\Debug\Ejemplo en clase 1.exe
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\obj\Debug\Ejemplo en clase 1.pdb

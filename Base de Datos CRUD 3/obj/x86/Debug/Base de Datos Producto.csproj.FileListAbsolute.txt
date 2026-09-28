@@ -1,0 +1,28 @@
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\x86\Debug\packages\SQLite.3.53.4\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\x86\Debug\Ejemplo en clase 1.exe.config
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\x86\Debug\Ejemplo en clase 1.exe
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\x86\Debug\Ejemplo en clase 1.pdb
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\x86\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\x86\Debug\SQLitePCLRaw.core.dll
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\x86\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\x86\Debug\System.Buffers.dll
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\x86\Debug\System.Data.SQLite.dll
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\x86\Debug\System.Memory.dll
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\x86\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\x86\Debug\System.Buffers.xml
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\x86\Debug\System.Data.SQLite.xml
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\x86\Debug\System.Memory.xml
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\x86\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\obj\x86\Debug\Base de Datos Producto.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\obj\x86\Debug\Ejemplo_en_clase_1.Form1.resources
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\obj\x86\Debug\Ejemplo_en_clase_1.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\obj\x86\Debug\Base de Datos Producto.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\obj\x86\Debug\Base de Datos Producto.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\obj\x86\Debug\Base de .E9E63592.Up2Date
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\obj\x86\Debug\Ejemplo en clase 1.exe
+C:\Users\ADMIN\source\repos\Ejemplo en clase 1\obj\x86\Debug\Ejemplo en clase 1.pdb
